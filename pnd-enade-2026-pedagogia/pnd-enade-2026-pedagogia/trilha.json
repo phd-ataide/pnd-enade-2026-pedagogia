@@ -1,0 +1,458 @@
+[
+  {
+    "dia": 1,
+    "data": "2026-08-17",
+    "semana": 1,
+    "foco": "Diagnóstico inicial e panorama do PND 2026",
+    "tarefas": [
+      "Leia o guia 'Como funciona o PND 2026' na aba Dicas de Prova.",
+      "Faça um mini-diagnóstico: responda 10 questões aleatórias em Praticar por Tema, sem estudar antes.",
+      "Releia a LDB (Lei 9.394/1996) — títulos sobre níveis e modalidades de ensino."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Legislação Educacional e Formação Docente"
+  },
+  {
+    "dia": 2,
+    "data": "2026-08-18",
+    "semana": 1,
+    "foco": "BNCC: estrutura geral e competências",
+    "tarefas": [
+      "Estude a estrutura da BNCC: competências gerais, áreas de conhecimento, componentes curriculares.",
+      "Relacione a BNCC à BNC-Formação (Resolução CNE/CP 2/2019).",
+      "Pratique 10 questões de Legislação Educacional."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Legislação Educacional e Formação Docente"
+  },
+  {
+    "dia": 3,
+    "data": "2026-08-19",
+    "semana": 1,
+    "foco": "Piaget: estágios do desenvolvimento cognitivo",
+    "tarefas": [
+      "Revise os 4 estágios piagetianos e os conceitos de assimilação, acomodação e equilibração.",
+      "Pense em 2 exemplos de sala de aula para cada estágio.",
+      "Pratique 10 questões de Psicologia da Educação."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Psicologia da Educação (Piaget, Vygotsky, Wallon)"
+  },
+  {
+    "dia": 4,
+    "data": "2026-08-20",
+    "semana": 1,
+    "foco": "Vygotsky: mediação e Zona de Desenvolvimento Proximal",
+    "tarefas": [
+      "Estude ZDP, mediação simbólica e funções psicológicas superiores.",
+      "Compare Piaget x Vygotsky em uma tabela própria (maturação x interação social).",
+      "Pratique 10 questões de Psicologia da Educação."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Psicologia da Educação (Piaget, Vygotsky, Wallon)"
+  },
+  {
+    "dia": 5,
+    "data": "2026-08-21",
+    "semana": 1,
+    "foco": "Wallon: afetividade e desenvolvimento integral",
+    "tarefas": [
+      "Estude os campos funcionais de Wallon (motor, afetivo, cognitivo) e a noção de sincretismo.",
+      "Relacione o estágio do personalismo com situações de sala de aula na Educação Infantil.",
+      "Pratique 10 questões mistas de Psicologia da Educação."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Psicologia da Educação (Piaget, Vygotsky, Wallon)"
+  },
+  {
+    "dia": 6,
+    "data": "2026-08-22",
+    "semana": 1,
+    "foco": "Saberes docentes (Tardif) e formação de professores",
+    "tarefas": [
+      "Estude os tipos de saberes docentes segundo Tardif (disciplinares, curriculares, experienciais).",
+      "Releia o Texto sobre PNLD e materiais didáticos (Questões 01-02 da prova oficial).",
+      "Revise as 10 primeiras questões oficiais comentadas."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Legislação Educacional e Formação Docente"
+  },
+  {
+    "dia": 7,
+    "data": "2026-08-23",
+    "semana": 1,
+    "foco": "Revisão da Semana 1 + Simulado temático",
+    "tarefas": [
+      "Refaça as questões que você errou nos dias 1 a 6 (veja 'Meu Progresso').",
+      "Simulado temático: 20 questões misturando os temas da semana.",
+      "Descanso ativo: releia seus resumos em voz alta por 15 minutos."
+    ],
+    "tipo": "revisao",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 8,
+    "data": "2026-08-24",
+    "semana": 2,
+    "foco": "Teorias de Currículo: tradicional, crítico e pós-crítico",
+    "tarefas": [
+      "Estude Tomaz Tadeu da Silva, Apple e Giroux — currículo como espaço de poder e ideologia.",
+      "Compare com a visão tecnicista/tradicional (Tyler, Bobbitt).",
+      "Pratique 10 questões de Teorias de Currículo."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Teorias de Currículo"
+  },
+  {
+    "dia": 9,
+    "data": "2026-08-25",
+    "semana": 2,
+    "foco": "Gimeno Sacristán: currículo prescrito, moldado e em ação",
+    "tarefas": [
+      "Estude os níveis de concretização curricular de Gimeno Sacristán.",
+      "Reflita: como a BNCC se transforma do currículo prescrito ao currículo em ação na sua futura sala de aula?",
+      "Pratique 10 questões de Teorias de Currículo."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Teorias de Currículo"
+  },
+  {
+    "dia": 10,
+    "data": "2026-08-26",
+    "semana": 2,
+    "foco": "Planejamento: plano de curso, plano de aula e sequência didática",
+    "tarefas": [
+      "Diferencie plano de curso, plano de aula e sequência didática (escalas de planejamento).",
+      "Estude o conceito de transposição didática (Chevallard).",
+      "Pratique 10 questões de Planejamento de Ensino."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Planejamento de Ensino e Metodologias"
+  },
+  {
+    "dia": 11,
+    "data": "2026-08-27",
+    "semana": 2,
+    "foco": "Metodologias Ativas I: sala invertida, PBL e ABP",
+    "tarefas": [
+      "Estude sala de aula invertida, Aprendizagem Baseada em Problemas (PBL) e em Projetos (ABP).",
+      "Liste 3 vantagens e 3 desafios de cada metodologia para a rede pública.",
+      "Pratique 10 questões de Metodologias Ativas."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Metodologias Ativas e Tecnologias Digitais"
+  },
+  {
+    "dia": 12,
+    "data": "2026-08-28",
+    "semana": 2,
+    "foco": "Metodologias Ativas II: gamificação, cultura maker e IA na educação",
+    "tarefas": [
+      "Estude gamificação, cultura maker e o uso pedagógico de Inteligência Artificial.",
+      "Reflita sobre letramento midiático-informacional e combate a fake news na escola.",
+      "Pratique 10 questões de Metodologias Ativas."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Metodologias Ativas e Tecnologias Digitais"
+  },
+  {
+    "dia": 13,
+    "data": "2026-08-29",
+    "semana": 2,
+    "foco": "Interdisciplinaridade, multidisciplinaridade e transdisciplinaridade",
+    "tarefas": [
+      "Diferencie os três conceitos com exemplos concretos de projetos escolares.",
+      "Revise as questões oficiais sobre interdisciplinaridade nos Anos Iniciais (tema mais recorrente da prova).",
+      "Pratique 10 questões de Planejamento de Ensino."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Planejamento de Ensino e Metodologias"
+  },
+  {
+    "dia": 14,
+    "data": "2026-08-30",
+    "semana": 2,
+    "foco": "Revisão da Semana 2 + Simulado temático",
+    "tarefas": [
+      "Refaça as questões erradas dos dias 8 a 13.",
+      "Simulado temático: 20 questões misturando Currículo, Planejamento e Metodologias Ativas.",
+      "Descanso ativo: caminhada de 20 minutos sem telas."
+    ],
+    "tipo": "revisao",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 15,
+    "data": "2026-08-31",
+    "semana": 3,
+    "foco": "Alfabetização x Letramento (Magda Soares)",
+    "tarefas": [
+      "Estude a distinção entre alfabetização e letramento segundo Magda Soares.",
+      "Reveja os métodos de alfabetização (sintético, analítico, fônico) e o debate atual sobre eles.",
+      "Pratique 10 questões de Alfabetização e Letramento."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Alfabetização e Letramento"
+  },
+  {
+    "dia": 16,
+    "data": "2026-09-01",
+    "semana": 3,
+    "foco": "Psicogênese da escrita (Emilia Ferreiro)",
+    "tarefas": [
+      "Estude os níveis da psicogênese: pré-silábico, silábico, silábico-alfabético e alfabético.",
+      "Pense em como identificar cada nível a partir de uma amostra de escrita infantil.",
+      "Pratique 10 questões de Alfabetização e Letramento."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Alfabetização e Letramento"
+  },
+  {
+    "dia": 17,
+    "data": "2026-09-02",
+    "semana": 3,
+    "foco": "BNCC na Educação Infantil: Campos de Experiência",
+    "tarefas": [
+      "Estude os 5 Campos de Experiência da BNCC para a Educação Infantil.",
+      "Relacione cada campo a uma atividade lúdica concreta.",
+      "Pratique 10 questões de BNCC e Educação Infantil."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "BNCC e Educação Infantil"
+  },
+  {
+    "dia": 18,
+    "data": "2026-09-03",
+    "semana": 3,
+    "foco": "Paulo Freire I: educação bancária x problematizadora",
+    "tarefas": [
+      "Estude a crítica de Freire à 'educação bancária' e a proposta da educação problematizadora.",
+      "Releia o conceito de conscientização e o papel do diálogo.",
+      "Pratique 10 questões de EJA e Paulo Freire."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "EJA e Paulo Freire"
+  },
+  {
+    "dia": 19,
+    "data": "2026-09-04",
+    "semana": 3,
+    "foco": "Paulo Freire II: investigação temática e palavras geradoras",
+    "tarefas": [
+      "Estude o método Paulo Freire: investigação, tematização e problematização; palavras geradoras.",
+      "Revise as questões oficiais sobre EJA e cordel (tema forte da prova 2025).",
+      "Pratique 10 questões de EJA e Paulo Freire."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "EJA e Paulo Freire"
+  },
+  {
+    "dia": 20,
+    "data": "2026-09-05",
+    "semana": 3,
+    "foco": "EJA: legislação e especificidades do público jovem e adulto",
+    "tarefas": [
+      "Estude a legislação da EJA na LDB e as Diretrizes Curriculares Nacionais da modalidade.",
+      "Reflita sobre avaliação formativa e não comparativa na EJA (evitar infantilização do adulto).",
+      "Pratique 10 questões mistas de EJA e Paulo Freire."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "EJA e Paulo Freire"
+  },
+  {
+    "dia": 21,
+    "data": "2026-09-06",
+    "semana": 3,
+    "foco": "Revisão da Semana 3 + Simulado temático",
+    "tarefas": [
+      "Refaça as questões erradas dos dias 15 a 20.",
+      "Simulado temático: 20 questões misturando Alfabetização, Educação Infantil e EJA.",
+      "Descanso ativo: 20 minutos de leitura não acadêmica."
+    ],
+    "tipo": "revisao",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 22,
+    "data": "2026-09-07",
+    "semana": 4,
+    "foco": "Educação Inclusiva: LBI e Atendimento Educacional Especializado",
+    "tarefas": [
+      "Estude a Lei 13.146/2015 (Lei Brasileira de Inclusão) e o funcionamento do AEE.",
+      "Reveja o conceito de tecnologia assistiva e desenho universal para a aprendizagem.",
+      "Pratique 10 questões de Educação Inclusiva."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Educação Inclusiva"
+  },
+  {
+    "dia": 23,
+    "data": "2026-09-08",
+    "semana": 4,
+    "foco": "Educação bilíngue de surdos e Libras",
+    "tarefas": [
+      "Estude a Lei 14.191/2021 (educação bilíngue de surdos) e o papel do intérprete de Libras.",
+      "Revise a Lei 12.764/2012 (Lei Berenice Piana — TEA) e o PDI (Plano de Desenvolvimento Individual).",
+      "Pratique 10 questões mistas de Educação Inclusiva."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Educação Inclusiva"
+  },
+  {
+    "dia": 24,
+    "data": "2026-09-09",
+    "semana": 4,
+    "foco": "Relações étnico-raciais: Leis 10.639/2003 e 11.645/2008",
+    "tarefas": [
+      "Estude a obrigatoriedade do ensino de história e cultura afro-brasileira e indígena.",
+      "Reflita sobre racismo institucional, branquitude e currículo eurocêntrico.",
+      "Pratique 10 questões de Relações Étnico-Raciais."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Relações Étnico-Raciais e Educação Antirracista"
+  },
+  {
+    "dia": 25,
+    "data": "2026-09-10",
+    "semana": 4,
+    "foco": "Gênero, sexualidade, nome social e idadismo",
+    "tarefas": [
+      "Estude nome social na escola (Resolução MEC 1/2018) e educação para a sexualidade.",
+      "Reveja o conceito de idadismo/etarismo e a Lei 14.986/2024 (perspectivas femininas no currículo).",
+      "Pratique 10 questões de Gênero, Sexualidade e Diversidade."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Gênero, Sexualidade e Diversidade"
+  },
+  {
+    "dia": 26,
+    "data": "2026-09-11",
+    "semana": 4,
+    "foco": "Educação do Campo e Educação Ambiental",
+    "tarefas": [
+      "Estude a Resolução CNE/CEB 1/2002 (Educação do Campo) e a Lei 9.795/1999 (Educação Ambiental).",
+      "Diferencie educação ambiental crítica x conservadora.",
+      "Pratique 10 questões de Educação do Campo e Educação Ambiental."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Educação do Campo e Educação Ambiental"
+  },
+  {
+    "dia": 27,
+    "data": "2026-09-12",
+    "semana": 4,
+    "foco": "Gestão democrática, PPP e Conselho Escolar",
+    "tarefas": [
+      "Estude o princípio da gestão democrática (LDB, art. 3º e 14) e a construção coletiva do PPP.",
+      "Reveja o papel do coordenador pedagógico como articulador da formação continuada.",
+      "Pratique 10 questões de Gestão Democrática e Escolar."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Gestão Democrática e Escolar"
+  },
+  {
+    "dia": 28,
+    "data": "2026-09-13",
+    "semana": 4,
+    "foco": "Revisão da Semana 4 + Simulado temático",
+    "tarefas": [
+      "Refaça as questões erradas dos dias 22 a 27.",
+      "Simulado temático: 20 questões misturando Inclusão, Diversidade e Gestão.",
+      "Descanso ativo: um dia sem estudar teoria nova — só revisão leve."
+    ],
+    "tipo": "revisao",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 29,
+    "data": "2026-09-14",
+    "semana": 5,
+    "foco": "Avaliação da aprendizagem (Luckesi)",
+    "tarefas": [
+      "Estude a distinção entre avaliação classificatória e avaliação diagnóstica/formativa (Luckesi).",
+      "Revise instrumentos de avaliação: portfólio, autoavaliação, observação, feedback.",
+      "Pratique 10 questões de Avaliação da Aprendizagem."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Avaliação da Aprendizagem"
+  },
+  {
+    "dia": 30,
+    "data": "2026-09-15",
+    "semana": 5,
+    "foco": "Avaliação em larga escala: Ideb, Saeb e Indique",
+    "tarefas": [
+      "Estude como o Ideb é calculado (fluxo x proficiência) e o papel do Saeb.",
+      "Reflita sobre os riscos da racionalidade técnica: 'ensinar para o teste'.",
+      "Pratique 10 questões de Avaliação da Aprendizagem."
+    ],
+    "tipo": "estudo",
+    "categoriaPratica": "Avaliação da Aprendizagem"
+  },
+  {
+    "dia": 31,
+    "data": "2026-09-16",
+    "semana": 5,
+    "foco": "SIMULADO COMPLETO — Parte 1 (questões 1 a 40)",
+    "tarefas": [
+      "Faça o Simulado Oficial cronometrado: responda as questões 1 a 40 sem consultar material.",
+      "Use no máximo 2h45 (metade do tempo oficial de 5h30).",
+      "Não corrija ainda — deixe a correção para o dia seguinte, com a mente descansada."
+    ],
+    "tipo": "simulado",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 32,
+    "data": "2026-09-17",
+    "semana": 5,
+    "foco": "SIMULADO COMPLETO — Parte 2 (questões 41 a 80) + correção geral",
+    "tarefas": [
+      "Complete as questões 41 a 80 do Simulado Oficial, também cronometradas (2h45).",
+      "Corrija as duas partes e leia TODAS as justificativas, mesmo das que você acertou.",
+      "Anote na aba Meu Progresso os 3 temas com mais erros para reforçar nos próximos dias."
+    ],
+    "tipo": "simulado",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 33,
+    "data": "2026-09-18",
+    "semana": 5,
+    "foco": "Reforço nos pontos fracos + preparação da discursiva",
+    "tarefas": [
+      "Volte a Praticar por Tema focando exatamente nos 3 temas mais fracos identificados ontem.",
+      "Leia o Guia da Questão Discursiva na aba Dicas de Prova e treine um rascunho de redação em 30 minutos.",
+      "Revise os flashcards de teoria dos autores que ainda geram dúvida."
+    ],
+    "tipo": "revisao",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 34,
+    "data": "2026-09-19",
+    "semana": 5,
+    "foco": "Revisão leve e organização para o dia da prova",
+    "tarefas": [
+      "Revisão leve: releia apenas seus resumos e flashcards, sem novas questões longas.",
+      "Organize os documentos exigidos, o local/horário da prova e o trajeto até o local.",
+      "Durma pelo menos 7-8 horas. Evite estudar conteúdo novo hoje."
+    ],
+    "tipo": "descanso",
+    "categoriaPratica": null
+  },
+  {
+    "dia": 35,
+    "data": "2026-09-20",
+    "semana": 5,
+    "foco": "DIA DA PROVA — PND 2026",
+    "tarefas": [
+      "Chegue ao local com pelo menos 1 hora de antecedência.",
+      "Leve documento de identificação oficial com foto.",
+      "Leia o Guia do Dia da Prova na aba Dicas de Prova antes de dormir hoje.",
+      "Confie na sua preparação. Respire, gerencie o tempo e releia cada questão com calma."
+    ],
+    "tipo": "prova",
+    "categoriaPratica": null
+  }
+]
